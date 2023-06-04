@@ -5,12 +5,12 @@
 <a href="https://www.linkedin.com/in/matías-medina-844181242" target="blank">
   <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Matias Medina" height="30" width="40" />
+      alt="Matias Medina" height="30" width="30" />
 </a>
 <a href="https://www.youtube.com/@MatUDev-1806" target="blank">
   <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="Matias Medina" height="30" width="40" />
+      alt="Matias Medina" height="30" width="30" />
 </a>
 
 
